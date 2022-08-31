@@ -4,7 +4,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
@@ -20,8 +19,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hamees-sayed/qr-code)
-- Live Site URL: [Add live site URL here](https://qr-code-component-hamees.netlify.app/)
+- Solution URL: [Solution](https://github.com/hamees-sayed/qr-code)
+- Live Site URL: [Live site URL](https://qr-code-component-hamees.netlify.app/)
 
 ### Built with
 
